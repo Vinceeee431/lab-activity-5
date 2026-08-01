@@ -1,0 +1,37 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.shelf/
+.cxx/
+.externalNativeBuild/
+
+# User-specific files
+local.properties
+.DS_Store
+captures/
+.kotlin/
+
+# Log files
+*.log
+
+# Keystores (DO NOT PUSH THESE)
+*.jks
+*.keystore
+*.p12
+
+# Google Services
+google-services.json
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties

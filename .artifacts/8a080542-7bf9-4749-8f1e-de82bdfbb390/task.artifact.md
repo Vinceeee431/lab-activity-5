@@ -1,0 +1,5 @@
+- [x] Update build configuration (compileSdk 37)
+- [x] Fix state management in `MainActivity.kt` and add Preview
+- [x] Improve `.gitignore` for GitHub
+- [x] Update `README.md`
+- [x] Verify build passes
